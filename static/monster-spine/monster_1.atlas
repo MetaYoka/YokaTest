@@ -1,0 +1,32 @@
+monster_1.png
+size:190,190
+filter:Linear,Linear
+pma:true
+AA
+bounds:62,15,32,38
+offsets:1,0,33,38
+BB
+bounds:159,93,21,22
+rotate:90
+CC
+bounds:156,24,32,40
+DD
+bounds:159,143,27,45
+offsets:0,0,28,45
+EE
+bounds:121,18,33,46
+offsets:1,0,34,46
+Layer 417
+bounds:159,116,28,25
+Layer 421
+bounds:159,84,14,7
+Layer 518
+bounds:62,55,57,34
+Layer 520
+bounds:2,7,82,58
+rotate:90
+Shadow
+bounds:133,66,122,24
+rotate:90
+monster_Body
+bounds:2,91,129,97
